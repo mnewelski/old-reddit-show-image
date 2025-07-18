@@ -2,7 +2,7 @@
 
 A Chrome extension that enhances your old Reddit browsing experience by automatically displaying images inline and adding convenient reply management controls.
 
-![Repository](https://img.shields.io/badge/GitHub-mnewelski%2Fold--reddit--show--image-blue?logo=github)
+![Repository](https://img.shields.io/badge/GitHub-newelski%2Fold--reddit--show--image-blue?logo=github)
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green?logo=googlechrome)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
@@ -30,7 +30,7 @@ A Chrome extension that enhances your old Reddit browsing experience by automati
 ### Method 1: Download and Install (Recommended)
 
 1. **Download the extension:**
-   - Clone this repository: `git clone https://github.com/mnewelski/old-reddit-show-image.git`
+   - Clone this repository: `git clone https://github.com/newelski/old-reddit-show-image.git`
    - Or download as ZIP and extract
 
 2. **Install in Chrome:**
@@ -45,7 +45,7 @@ A Chrome extension that enhances your old Reddit browsing experience by automati
 
 ### Method 2: Quick Install (ZIP)
 
-1. Download the [latest release](https://github.com/mnewelski/old-reddit-show-image/releases/download/v1.0.0/old-reddit-show-image-v1.0.zip) ZIP file
+1. Download the [latest release](https://github.com/newelski/old-reddit-show-image/releases/download/v1.0.0/old-reddit-show-image-v1.0.zip) ZIP file
 2. Extract the ZIP file to a folder
 3. Follow steps 2-3 from Method 1 above
 
@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues:
-1. Check the [Issues](https://github.com/mnewelski/old-reddit-show-image/issues) section
+1. Check the [Issues](https://github.com/newelski/old-reddit-show-image/issues) section
 2. Create a new issue with:
    - Chrome version
    - Extension version
@@ -149,7 +149,7 @@ If you encounter any issues:
    - Screenshots if applicable
 
 ## 🔗 Repository
-**GitHub:** https://github.com/mnewelski/old-reddit-show-image
+**GitHub:** https://github.com/newelski/old-reddit-show-image
 
 ---
 

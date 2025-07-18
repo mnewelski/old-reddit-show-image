@@ -45,7 +45,7 @@ A Chrome extension that enhances your old Reddit browsing experience by automati
 
 ### Method 2: Quick Install (ZIP)
 
-1. Download the [latest release](https://github.com/mnewelski/old-reddit-show-image/releases/download/v1.0/old-reddit-show-image-v1.0.zip) ZIP file
+1. Download the [latest release](https://github.com/mnewelski/old-reddit-show-image/releases/download/v1.0.0/old-reddit-show-image-v1.0.zip) ZIP file
 2. Extract the ZIP file to a folder
 3. Follow steps 2-3 from Method 1 above
 
@@ -77,10 +77,8 @@ old-reddit-show-image/
 ├── icon128.png          # Large icon (optional)
 ├── README.md            # This file
 ├── screenshots/         # Demo images and videos
-│   ├── before-after.jpg
-│   └── comments-hide-show.gif
-└── releases/           # Pre-built extension packages
-    └── old-reddit-show-image-v1.0.zip
+    ├── before-after.jpg
+    └── comments-hide-show.gif
 ```
 
 ### How It Works

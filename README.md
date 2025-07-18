@@ -57,13 +57,8 @@ A Chrome extension that enhances your old Reddit browsing experience by automati
 ### Reply Toggle Functionality
 Watch how easy it is to hide/show replies:
 
-![Comments Toggle Demo](screenshots/comments-hide-show.gif)
+![Replies Toggle Demo](screenshots/comments-hide-show.gif)
 
-### Example Usage
-```
-Original: <image>
-Becomes:  [Beautiful inline image with 500px max width]
-```
 
 ## 🛠️ Technical Details
 
@@ -76,7 +71,7 @@ old-reddit-show-image/
 ├── icon48.png           # Medium icon (optional)
 ├── icon128.png          # Large icon (optional)
 ├── README.md            # This file
-├── screenshots/         # Demo images and videos
+└── screenshots/         # Demo images and videos
     ├── before-after.jpg
     └── comments-hide-show.gif
 ```

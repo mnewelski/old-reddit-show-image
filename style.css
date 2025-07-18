@@ -1,0 +1,43 @@
+/* Old Reddit Show Image Extension Styles */
+
+.toggle-replies-btn {
+    background-color: #0079d3;
+    color: white;
+    border: none;
+    padding: 4px 8px;
+    margin-left: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.2s ease;
+}
+
+.toggle-replies-btn:hover {
+    background-color: #0060a8;
+    text-decoration: none;
+}
+
+.toggle-replies-btn:active {
+    background-color: #004d85;
+}
+
+/* Ensure images don't break layout */
+.toggle-replies-btn + img {
+    max-width: 500px !important;
+    height: auto !important;
+    display: block !important;
+}
+
+/* Style for replaced images */
+a img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+a img:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}

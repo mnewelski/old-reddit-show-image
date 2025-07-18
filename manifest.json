@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Old Reddit Show Image",
+    "version": "1.0",
+    "description": "Replaces <image> links with actual images and adds toggle replies button",
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.reddit.com/*",
+                "*://reddit.com/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ],
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+}
